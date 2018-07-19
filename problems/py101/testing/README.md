@@ -1,4 +1,4 @@
-# 1. Introduction to PyTest and Continuous Integration
+﻿# 1. Introduction to PyTest and Continuous Integration  change: 7/19/2018
 
 <!-- TOC -->
 
